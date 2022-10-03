@@ -121,13 +121,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 ꧁༒SAN•BOTZ༒꧂ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘꧁༒SAN•BOTZ༒꧂˘ฅ ꒱WH-MODS-DEV` ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘꧁༒SAN•BOTZ༒꧂˘ฅ SANZBOTZ` ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ ꧁༒SAN•BOTZ༒꧂ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By ꧁༒SAN•BOTZ༒꧂`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 ꧁༒SAN•BOTZ༒꧂  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -419,8 +419,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = '꧁༒SAN•BOTZ༒꧂'
+global.stickauth = `By ©꧁༒SAN•BOTZ༒꧂`
 
 global.multiplier = 38 // The higher, The harder levelup
 
